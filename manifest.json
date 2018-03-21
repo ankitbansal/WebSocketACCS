@@ -1,0 +1,14 @@
+{
+  "runtime": {
+    "majorVersion": "8"
+  },
+  "command": "sh target/bin/webapp",
+  "startupTime": 30,
+  "shutdownTime": 0,
+  "type": "web",
+  "isClustered": false,
+  "requiresAntiAffinity": false,
+  "release": {
+  },
+  "notes": "notes for release"
+}
